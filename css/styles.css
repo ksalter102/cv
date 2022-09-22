@@ -1,0 +1,205 @@
+
+.navbar ul{
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  right: 160px;
+  bottom: 20px;
+}
+
+.navbar ul li{
+  list-style: none;
+  margin-right: 40px;
+  margin-top: 10px;
+}
+
+.navbar ul li i{
+  font-size: 50px;
+}
+
+#linkedin{
+  position: relative;
+  top: 10px;
+  cursor: pointer;
+}
+
+#github{
+  position: relative;
+  top: 10px;
+  cursor: pointer;
+}
+
+#contact_me{
+  position: relative;
+  top: 10px;
+  cursor: pointer;
+}
+
+#helicopter{
+  position: relative;
+  top: 10px;
+  right: 1015px;
+}
+
+#arrow{
+  position: relative;
+  top: 10px;
+  right: 1015px;
+}
+
+#developer{
+  position: relative;
+  top: 10px;
+  right: 1015px;
+}
+
+.Title_section{
+  background-color: #B7C4CF;
+  text-align: center;
+  border-width: 0px;
+  margin: 0px;
+  padding: 10px;
+  width: 100%px;
+}
+
+#sub_title_heading{
+  position: relative;
+  top: 200px;
+}
+
+
+#title_heading{
+  font-weight:200;
+  font-size: 50px;
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  bottom: 25px;
+}
+
+.qualifications_and_certifications{
+  background-color: #EEE3CB;
+  text-align: center;
+}
+
+.firewatch_image{
+  display: block;
+  position: absolute;
+  top: 500px;
+  left: 235px;
+  height: 15%;
+  width: 75%;
+}
+
+.contact_me_section{
+  background-color: #B7C4CF;
+  text-align: center;
+  border-width:thin;
+  border-width: 10px;
+  margin: 0px;
+  padding: 10px 10px 10px 10px;
+  left: 30px;
+  position: relative;
+  width: 100px;
+  bottom: 325px;
+}
+
+.about_me_section{
+  background-color: none;
+  text-align: center;
+  border-width:thin;
+  border-width: 10px;
+  margin: 0px;
+  padding: 10px;
+  top: 150px;
+  position:relative;
+  left: 10px;
+
+}
+
+.python_skills_section{
+  background-color: #EEE3CB;
+  text-align: center;
+  border-width:thin;
+  border-width: 10px;
+  margin: 0px;
+  padding: 10px;
+  position: relative;
+  top: 300px;
+  width: 20%;
+  left: 200px;
+}
+
+.full_stack_section{
+  background-color: #EEE3CB;
+  text-align: center;
+  border-width:thin;
+  border-width: 10px;
+  margin: 0px;
+  padding: 10px;
+  position:relative;
+  width: 20%;
+  bottom: 850px;
+  left: 1300px;
+}
+
+.cv_links{
+  background-color: #EEF2E6;
+  text-align: center;
+  border-width:thin;
+  border-width: 10px;
+  margin: 0px;
+  padding: 10px;
+  position: relative;
+  width: 10%;
+  bottom: 1997px;
+  left: 850px;
+}
+
+.top_container{
+  position: absolute;
+  height: 1920px;
+  width: 1903px;
+}
+
+.bottom_container{
+  position: absolute;
+  top: 2100px;
+  left: 20px;
+  width: 200px;
+}
+
+.projects{
+    background-color: #EEF2E6;
+    text-align: center;
+    border-width:thin;
+    border-width: 10px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.soft_skills{
+  background-color: #EEF2E6;
+  text-align: center;
+  border-width:thin;
+  border-width: 10px;
+  margin: 0px;
+  padding: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top-style:dotted;
+  border-color: #FA7070;
+  border-width: 10px;
+  width: 15%;
+}
+
+.me {
+  height: 10%;
+  width: 30%;
+}
+
+.heading {
+  color: black;
+  text-align: center;
+}
