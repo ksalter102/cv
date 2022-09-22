@@ -129,6 +129,14 @@
   left: 200px;
 }
 
+.python_skills_section ul li{
+  list-style: none;
+}
+
+.full_stack_section ul li{
+  list-style: none;
+}
+
 .full_stack_section{
   background-color: #EEE3CB;
   text-align: center;
